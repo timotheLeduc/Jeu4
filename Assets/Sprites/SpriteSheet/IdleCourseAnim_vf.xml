@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="IdleCourseAnim_vf.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence Symbole 1 10000" x="4" y="4" width="97" height="257" pivotX="46.2" pivotY="131.6"/>
+	<SubTexture name="Occurrence Symbole 1 10001" x="105" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10002" x="206" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10003" x="307" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10004" x="408" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10005" x="509" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10006" x="610" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10007" x="711" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10008" x="812" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10009" x="913" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10010" x="1014" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10011" x="1115" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10012" x="1216" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10013" x="1317" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10014" x="1418" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10015" x="1519" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10016" x="1620" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10017" x="1721" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10018" x="1822" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10019" x="1923" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10020" x="4" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10021" x="105" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10022" x="206" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10023" x="307" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10024" x="408" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10025" x="509" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10026" x="610" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10027" x="711" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10028" x="812" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10029" x="913" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10030" x="812" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10031" x="711" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10032" x="610" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10033" x="1014" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10034" x="408" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10035" x="1115" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10036" x="206" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10037" x="105" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10038" x="1216" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10039" x="1317" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10040" x="1418" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10041" x="1519" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10042" x="1620" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10043" x="1721" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10044" x="1822" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10045" x="1317" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10046" x="1923" y="265" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10047" x="4" y="526" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10048" x="105" y="526" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10049" x="206" y="526" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10050" x="307" y="526" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10051" x="812" y="4" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10052" x="408" y="526" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10053" x="509" y="526" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10054" x="610" y="526" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10055" x="711" y="526" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10056" x="812" y="526" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10057" x="913" y="526" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10058" x="1014" y="526" width="97" height="257"/>
+	<SubTexture name="Occurrence Symbole 1 10059" x="1115" y="526" width="97" height="257"/>
+</TextureAtlas>

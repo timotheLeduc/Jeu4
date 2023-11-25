@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CourseSpritesheet.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10000" x="4" y="4" width="147" height="253" pivotX="72.55" pivotY="141.1" frameX="0" frameY="-9" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10001" x="155" y="4" width="144" height="253" frameX="-3" frameY="-8" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10002" x="303" y="4" width="142" height="254" frameX="-4" frameY="-7" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10003" x="449" y="4" width="139" height="255" frameX="-6" frameY="-6" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10004" x="592" y="4" width="137" height="255" frameX="-7" frameY="-5" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10005" x="733" y="4" width="133" height="254" frameX="-10" frameY="-5" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10006" x="870" y="4" width="125" height="252" frameX="-18" frameY="-4" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10007" x="999" y="4" width="112" height="250" frameX="-30" frameY="-3" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10008" x="1115" y="4" width="106" height="247" frameX="-35" frameY="-2" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10009" x="1225" y="4" width="108" height="244" frameX="-32" frameY="-1" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10010" x="1337" y="4" width="110" height="240" frameX="-30" frameY="0" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10011" x="1451" y="4" width="112" height="238" frameX="-29" frameY="-1" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10012" x="1567" y="4" width="115" height="240" frameX="-28" frameY="-2" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10013" x="1686" y="4" width="117" height="241" frameX="-28" frameY="-3" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10014" x="1807" y="4" width="122" height="242" frameX="-24" frameY="-4" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10015" x="4" y="263" width="127" height="243" frameX="-21" frameY="-5" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10016" x="135" y="263" width="127" height="248" frameX="-25" frameY="-5" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10017" x="266" y="263" width="128" height="251" frameX="-29" frameY="-6" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10018" x="398" y="263" width="127" height="253" frameX="-34" frameY="-7" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10019" x="529" y="263" width="127" height="254" frameX="-38" frameY="-8" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10020" x="660" y="263" width="132" height="253" frameX="-37" frameY="-9" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10021" x="796" y="263" width="136" height="254" frameX="-36" frameY="-8" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10022" x="936" y="263" width="143" height="254" frameX="-31" frameY="-7" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10023" x="1083" y="263" width="150" height="254" frameX="-26" frameY="-6" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10024" x="1237" y="263" width="155" height="254" frameX="-22" frameY="-5" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10025" x="1396" y="263" width="161" height="252" frameX="-17" frameY="-5" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10026" x="1561" y="263" width="163" height="251" frameX="-13" frameY="-4" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10027" x="1728" y="263" width="165" height="250" frameX="-9" frameY="-3" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10028" x="4" y="521" width="163" height="248" frameX="-6" frameY="-2" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10029" x="171" y="521" width="162" height="245" frameX="-3" frameY="-1" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10030" x="337" y="521" width="157" height="242" frameX="-2" frameY="0" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10031" x="498" y="521" width="166" height="245" frameX="-1" frameY="-1" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10032" x="668" y="521" width="174" height="247" frameX="0" frameY="-2" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10033" x="846" y="521" width="180" height="249" frameX="0" frameY="-3" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10034" x="1030" y="521" width="184" height="250" frameX="0" frameY="-4" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10035" x="1218" y="521" width="186" height="251" frameX="-1" frameY="-5" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10036" x="1408" y="521" width="181" height="253" frameX="-1" frameY="-5" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10037" x="1593" y="521" width="173" height="253" frameX="-2" frameY="-6" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10038" x="1770" y="521" width="165" height="253" frameX="-2" frameY="-7" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10039" x="4" y="778" width="157" height="253" frameX="-1" frameY="-8" frameWidth="187" frameHeight="262"/>
+	<SubTexture name="Occurrence Cycle-course-avec-saut 10040" x="165" y="778" width="148" height="253" frameX="0" frameY="-9" frameWidth="187" frameHeight="262"/>
+</TextureAtlas>

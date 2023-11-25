@@ -1,0 +1,1267 @@
+fileFormatVersion: 2
+guid: a5e2708b5dcf62b4692eb1ed3d948ec0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e03e4cf01d5f947b43899af1ead31f
+      internalID: -1665743433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a0ce5bade3d9849bd052ddf50a4b3f
+      internalID: -906934226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f5cdb85284d1c4aa9670c08431bcb3
+      internalID: 335507923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db795101251b2f4ca137af413680e6a
+      internalID: -263884426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d37642a17da7040906483ca9293e37
+      internalID: -101109799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727d4b820ddd521408965a4a1a144c3e
+      internalID: -1530955582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_6
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0485ad3cf4b88114dab0c03bd3cd0b9a
+      internalID: -332959445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_7
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bd22705ff495d4a876903df4b54d0d
+      internalID: 1274524347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_8
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2523c0223b277aa48ab79335b3006bb4
+      internalID: -417473870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_9
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d9f0217f38cfc4492f5349e4e1c8b9
+      internalID: -2070514560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_10
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa92ffff02623aa44a58875024550ba8
+      internalID: 657216356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_11
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a40176dfe2a46f439340fb9ea8aaa42
+      internalID: 655078516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_12
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cc58477d5806a4a93aa9dc147ed164
+      internalID: -1082744581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_13
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9641b1f28929b5049b0771fb391b9b73
+      internalID: -156139517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_14
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be22ecb8dc74fd4aa345d6e4dd2b40c
+      internalID: 1297166070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_15
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e9d21808cac5345ab6426c2ab52523
+      internalID: 1226562148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_16
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ff7251ef28f75428bf4c9128304aaf
+      internalID: 956126142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_17
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee346487664d8b74f9c56ceb5ab590dd
+      internalID: 1185940038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_18
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b27bd67a1cc044387215f2b6c204db
+      internalID: 1232164248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_19
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 764
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b835bc0e586509a47849420056f69361
+      internalID: -39087708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad18e17ad439c174e8e5a3e38602f932
+      internalID: 2136470481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d5f217fa6edec469c69a2805ae3b99
+      internalID: 1900561063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92f88292c2aa574cb6708692618dbf4
+      internalID: 918536325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed34bc9e360c4d74bbcdc1fda26e2ff5
+      internalID: -302193608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0a7ca3998e7404286d508bc4367d64
+      internalID: -2009204056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_25
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cbaf3d4feaa1d4b8fc88a4afcbad51
+      internalID: -1388884846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_26
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91b7bd98b6747549a827183ff5b3e4d
+      internalID: 1588942012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_27
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5758e218b95af4286957b0c10d1f0c
+      internalID: -1776693461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_28
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f60e8d4dd1cf04b9b88a29554192b5
+      internalID: 1790482785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_29
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73b2392e5528c44f9e8c4362cdecfd2
+      internalID: 1644094681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_30
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1327d06a2dfad5b40bf671b145218955
+      internalID: -1050754077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_31
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aa4f5ce5e856347ad84554b498f19e
+      internalID: -408125917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_32
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57597c257af93534a9df51106079eb28
+      internalID: 563815794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_33
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354e85f1df4b3a140b05ccd180edc25e
+      internalID: 602297538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_34
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444581904e7ae0743bd6148720f99278
+      internalID: 984441605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_35
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de50e7b18a4f53449951f3c6d499f01
+      internalID: 1452667894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_36
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7727e3a8c1a5f4bae32cb8109b0abd
+      internalID: -541166661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_37
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c92a6f1edb11647a99cd5ae22b0c3b
+      internalID: -1301314181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_38
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae8760207c9dfc4f8ca9ab4bdad158c
+      internalID: 351002308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_39
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 503
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56621a8cf0be00e44a84edc0a8e62ce1
+      internalID: 1033458752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 242
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e996ad8ca738efb40b5f45d32057b229
+      internalID: 1403974606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 242
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd67b67e98e22746ac5a54b3edb4134
+      internalID: 1907576345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_42
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 242
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff713736dbd7624f9b931922fe8fbd9
+      internalID: -941675099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_43
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 242
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaacf7b96ba4c24e937ffa75054c6ee
+      internalID: 1311030532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 242
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ff6a0212e02e746ac8b0359bee4d55
+      internalID: -772248614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_45
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 242
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e71fbbd24bd994dbf6c3026ce9d626
+      internalID: -1303227382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_46
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 242
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b0ad3c321b3b844bed1ba894ae17ea
+      internalID: 40873058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_47
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 242
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273f5240d6aeb7b42b42bbdfce42092c
+      internalID: 517304537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_48
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 242
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5065642eabc4b14b81870ecf4f0ddf6
+      internalID: -377729169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_49
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 242
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a8a1660e61ac342bebfc8144576546
+      internalID: 569293694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_50
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 242
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c4346b5c3a23240a96dfa6db510e21
+      internalID: 1426048092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleCourseAnim_vf_51
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 242
+        width: 97
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb0a970d29fd2c4785542818c94adf0
+      internalID: -769501766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IdleCourseAnim_vf_44: -772248614
+      IdleCourseAnim_vf_4: -101109799
+      IdleCourseAnim_vf_22: 918536325
+      IdleCourseAnim_vf_8: -417473870
+      IdleCourseAnim_vf_25: -1388884846
+      IdleCourseAnim_vf_41: 1907576345
+      IdleCourseAnim_vf_27: -1776693461
+      IdleCourseAnim_vf_2: 335507923
+      IdleCourseAnim_vf_51: -769501766
+      IdleCourseAnim_vf_6: -332959445
+      IdleCourseAnim_vf_7: 1274524347
+      IdleCourseAnim_vf_3: -263884426
+      IdleCourseAnim_vf_31: -408125917
+      IdleCourseAnim_vf_0: -1665743433
+      IdleCourseAnim_vf_15: 1226562148
+      IdleCourseAnim_vf_50: 1426048092
+      IdleCourseAnim_vf_43: 1311030532
+      IdleCourseAnim_vf_21: 1900561063
+      IdleCourseAnim_vf_29: 1644094681
+      IdleCourseAnim_vf_11: 655078516
+      IdleCourseAnim_vf_32: 563815794
+      IdleCourseAnim_vf_42: -941675099
+      IdleCourseAnim_vf_17: 1185940038
+      IdleCourseAnim_vf_5: -1530955582
+      IdleCourseAnim_vf_10: 657216356
+      IdleCourseAnim_vf_9: -2070514560
+      IdleCourseAnim_vf_39: 1033458752
+      IdleCourseAnim_vf_12: -1082744581
+      IdleCourseAnim_vf_28: 1790482785
+      IdleCourseAnim_vf_26: 1588942012
+      IdleCourseAnim_vf_20: 2136470481
+      IdleCourseAnim_vf_35: 1452667894
+      IdleCourseAnim_vf_49: 569293694
+      IdleCourseAnim_vf_48: -377729169
+      IdleCourseAnim_vf_18: 1232164248
+      IdleCourseAnim_vf_36: -541166661
+      IdleCourseAnim_vf_40: 1403974606
+      IdleCourseAnim_vf_1: -906934226
+      IdleCourseAnim_vf_33: 602297538
+      IdleCourseAnim_vf_38: 351002308
+      IdleCourseAnim_vf_37: -1301314181
+      IdleCourseAnim_vf_47: 517304537
+      IdleCourseAnim_vf_23: -302193608
+      IdleCourseAnim_vf_45: -1303227382
+      IdleCourseAnim_vf_46: 40873058
+      IdleCourseAnim_vf_16: 956126142
+      IdleCourseAnim_vf_14: 1297166070
+      IdleCourseAnim_vf_13: -156139517
+      IdleCourseAnim_vf_24: -2009204056
+      IdleCourseAnim_vf_30: -1050754077
+      IdleCourseAnim_vf_34: 984441605
+      IdleCourseAnim_vf_19: -39087708
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e901cfd11d572c9489241ab3ebb9b47a, type: 3}
+  m_Name: Sauvegarde
+  m_EditorClassIdentifier: 
+  _nomJoueur: defaut
+  _donneesPerso: {fileID: 11400000, guid: cf96481b0ed824140ab87bb127a5950f, type: 2}
+  _niveauxComplet: 1
+  _joyauxAccumule: 103
+  _tempsRestant: 476
+  _lesNomsScores:
+  - nom: "ui\u200B"
+    score: 3640
+  - nom: "test\u200B"
+    score: 3590
+  calculTotal: 3645
+  _niveauxText: "Niveaux Compl\xE9t\xE9s: 2 niveau(x) * 100 = 200"
+  _tempsText: 'Temps restant: 487s * 5 = 2435'
+  _joyauxText: "Joyaux accumul\xE9s: 101 joyaux * 10 = 1010"
+  _totalText: 'Total: 3645points'
+  _nomsScoresText: "1. defaut : 3645\n2. ui\u200B : 3640\n3. test\u200B : 3590\n"
+  _joueurPodium: 0
